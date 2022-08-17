@@ -945,6 +945,7 @@ img {
   background-color: #ffffff;
   padding: 40px;
   border-radius: 1%;
+  border: red;
 }
 
 .modal__button {
